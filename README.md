@@ -1,2 +1,3 @@
-# Python-Exercice-Variaveis-Operacoes-Condicoes MADS1974
-EXERCICIOS PYTHON 
+# EXERCICIOS PYTHON 
+Exercice-Variaveis-Operacoes-Condicoes-Palindrome by MADS1974
+
